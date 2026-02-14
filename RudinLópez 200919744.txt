@@ -1,0 +1,15 @@
+Tarea No. 3 Laboratorio de IPC1
+Rudin Alexander López Salvatierra
+200919744
+
+Repositorio de GitHub
+https://github.com/RudinLopez0991/IPC1_EJERCICIOS_200919744.git
+
+
+
+Reflexión y aplicación práctica
+¿Qué aprendí con esta tarea?
+Aprendí a crear Repositorios, cambiarles nombre, y cambiar acceso publico y privado.
+
+¿Cómo crees que aplicarás este conocimiento en otro curso o en la vida profesional?
+Esto puede ser muy útil en cualquier curso donde tenga proyectos y quiera tener un control de versión, además para trabajar de forma colaborativa, en lugar de google drive. 
